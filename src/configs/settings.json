@@ -1,0 +1,7 @@
+{
+  "mongoURL": "mongodb+srv://sonblok123:sonblok123@cluster0.c1u0i.mongodb.net/sonblok123?retryWrites=true&w=majority",
+  "clientID": "893337600658665483",
+  "token": "x",
+  "secret": "ZUHl7wGTFQq8EfTQAcVtVsn27Rr1Ephu",
+  "callbackURL": "https://dune-knotty-cub.glitch.me/callback"
+}
